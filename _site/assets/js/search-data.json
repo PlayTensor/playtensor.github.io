@@ -1,0 +1,58 @@
+{"0": {
+    "doc": "About",
+    "title": "About",
+    "content": "Tensor 1 is a first-person action adventure, developed as a hybrid of the Greatest Generation shooter/Generation X shooter sub-genres. Coming Soon: A Trailer . ",
+    "url": "/about/",
+    
+    "relUrl": "/about/"
+  },"1": {
+    "doc": "Development Log",
+    "title": "Development Log",
+    "content": "Welcome to the Official Development Log . | Welcome to Tensor! | . ",
+    "url": "/devlog/",
+    
+    "relUrl": "/devlog/"
+  },"2": {
+    "doc": "Manual",
+    "title": "Manual",
+    "content": "Welcome to the Online Game Manual . This site is currently under construction, but will eventually feature a full guide on Tensor 1 and its built-in Tile based level editor. ",
+    "url": "/manual/",
+    
+    "relUrl": "/manual/"
+  },"3": {
+    "doc": "Campaign",
+    "title": "Campaign",
+    "content": "Campaign is the story mode of Tensor 1. Currently two story campaigns are available: . | Campaign A: a 4-level demonstration story campaign | Campaign B: a full 16-level story campaign | . Depending on interest, more story campaigns may be added in updates to the game. Version Differences: . | PC: contains campaigns A and B | Mobile: contains campaigns A and B | Demo: contains campaign A | . ",
+    "url": "/manual/campaign",
+    
+    "relUrl": "/manual/campaign"
+  },"4": {
+    "doc": "Versus",
+    "title": "Versus",
+    "content": "Versus is the network multiplayer game mode. Connect with other friends over a Local Area Network (LAN) and compete in Death Match, Team Death Match, or Capture the Flag game modes. Version Differences: . | PC: includes Versus | Mobile: Versus not included | Demo: Versus not included | . ",
+    "url": "/manual/versus/",
+    
+    "relUrl": "/manual/versus/"
+  },"5": {
+    "doc": "Tile Editor",
+    "title": "Tile Editor",
+    "content": "The Level Editor is a tile-based editor used for making custom maps. Single-player and Multiplayer have separate level editors. The multiplayer version of the editor is accessible from the Versus menu. The single-player version of the editor is accessible in the Extras menu. Version Differences: . | PC: includes the Editor | Mobile: Editor not included | Demo: Editor not included | . ",
+    "url": "/manual/tile_editor/",
+    
+    "relUrl": "/manual/tile_editor/"
+  },"6": {
+    "doc": "Survival",
+    "title": "Survival",
+    "content": "Survival is the randomized gauntlet “roguelite” game mode. Meta-inventory Tokens obtained from Survival can be used to purchase cosmetic rewards in the Profile section. Version Differences: . | PC: Includes Survival and Profile cosmetics | Mobile: Includes Survival and Profile cosmetics | Demo: Includes Survival, does not include Profile unlockables | . ",
+    "url": "/manual/survival/",
+    
+    "relUrl": "/manual/survival/"
+  },"7": {
+    "doc": "Buy Now",
+    "title": "Buy Now",
+    "content": "Tensor 1 Versions: . Choose the version that fits your budget! . | PC (Steam): Includes Campaign (A, B), Survival, Versus, Profile, Editor, only $9.99 | Mobile: Includes Campaign (A, B), Survival, Profile, only $4.99 | Demo: Includes Campaign (A), Survival, FREE | . ",
+    "url": "/purchase/",
+    
+    "relUrl": "/purchase/"
+  }
+}
