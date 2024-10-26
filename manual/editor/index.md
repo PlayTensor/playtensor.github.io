@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Tile Editor
+title: Editor
 parent: Manual
-permalink: /manual/tile_editor/
+permalink: /manual/editor/
 nav_order: 4
 ---
 
