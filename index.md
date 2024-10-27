@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Welcome to Tensor!
+[![About](assets/img/cover_lq.jpg)]({% link about.md %})
