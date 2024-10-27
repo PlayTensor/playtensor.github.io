@@ -6,7 +6,7 @@ categories: devlog
 excerpt_separator: <!--more-->
 ---
 
-This is the launch of the official website for *Tensor 1*, an upcoming first person action-adventure video game. It is a hybrid of the greatest generation shooter and generation X shooter sub-genres.
+This is the launch of the official website for *Tensor 1*, an upcoming first person action-adventure video game. It is a hybrid of the silent generation shooter and generation X shooter sub-genres.
 <!--more-->
 
 ### Defining Genres and Categories
@@ -31,13 +31,14 @@ The term "boomer shooter" developed as slang to define a sub-genre within the ge
 
 We can take advantage of the "baby boomer" reference however, and extend it into other generations to define more sub-genres within the first person shooter genre. These generations/sub-genres, with core examples, would be:
 
-| Generation          | Examples                                                        | Notes        |
-|:--------------------|:----------------------------------------------------------------|:-------------|
-| Greatest Generation | Wolfenstein 3D (1992), Blake Stone (1993)                       | Tile-based technology   |
-| Baby Boomer         | Doom (1993), Doom II (1994), Duke Nukem 3D (1996), Quake (1996) | Fast paced action focus |
-| Generation X        | Quake II (1997), Unreal (1998), Sin (1998), Half-Life (1998)    | Increased Narrative focus    |
-| Millenial           | Half-Life 2 (2004), Doom 3 (2004), Quake 4 (2005)               | Spectacle-based storytelling    |
+| Generation          | Core Examples                                                   | Notes                     |
+|:--------------------|:----------------------------------------------------------------|:--------------------------|
+| Greatest            | Wolfenstein 3D (1992)                                           | Tile-based simplicity     |
+| Silent              | Blake Stone (1993)                                              | Increased complexity      |
+| Baby Boomer         | Doom (1993), Doom II (1994), Duke Nukem 3D (1996), Quake (1996) | Increased 3D technology   |
+| Generation X        | Quake II (1997), Unreal (1998), Sin (1998), Half-Life (1998)    | Increased world building  |
+| Millenial           | Half-Life 2 (2004), Doom 3 (2004), Quake 4 (2005)               | Spectacle storytelling    |
 
 ### Greatest Generation/Generation X hybrid
 
-*Tensor 1* seeks to combine the tile-based structure and simplicity of Greatest Generation shooters with the world-building and narrative of Generation X shooters. It is expected to release Q4 2024.
+*Tensor 1* seeks to combine the tile-based simplicity of Greatest and Silent Generation shooters with the world-building and narrative of Generation X shooters. It is expected to release Q4 2024.
