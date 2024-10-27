@@ -26,29 +26,23 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://playtensor.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
-nav_footer_content: Copyright (c) Magenta Grid 2024
+nav_footer_content: "Copyright (c) Magenta Grid 2024   ."
 
 # Build settings
 theme: just-the-docs
 plugins:
   - jekyll-feed
-  - jekyll-titles-from-headings
 color_scheme: tscheme
-
-titles_from_headings:
-  enabled: true
-  strip_title: true
-  collections: false
 
 defaults:
   - scope:
       path: "assets/img"
     values:
       image: true
-  - scope:
-      layout: "post"
-    values:
-      strip_title: true
+
+aux_links:
+  Buy on Steam:
+    - https://store.steampowered.com/app/3299900
 
 # Exclude from processing.
 # The following items will not be processed, by default.

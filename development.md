@@ -11,7 +11,6 @@ Welcome to the Official Development Log
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.date | date: "%Y %b %-d" }}
-      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
