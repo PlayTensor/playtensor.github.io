@@ -2,15 +2,9 @@
 layout: page
 title: About
 permalink: /about/
-youtubeId: G_B89tX9v88
-vimeoId: 1020847967
 ---
 
-Tensor 1 is a first-person action adventure set in a strange underground facility. It is a hybrid of the Greatest Generation shooter, Silent Generation shooter, and Generation X shooter [sub-genres]({% post_url 2024-10-24-the-genre-of-tensor %}).
-
-### Gameplay Trailer
-
-{% include vimeoplayer.html id=page.vimeoId %}
+Tensor 1 is a first-person action adventure video game set in a strange underground facility. It is a hybrid of the Greatest Generation shooter, Silent Generation shooter, and Generation X shooter [sub-genres]({% post_url 2024-10-24-the-genre-of-tensor %}). Coming soon to PC, Mobile, and Web.
 
 ### Features
 - [**Campaign**]({% link manual/campaign/index.md %}):\* Explore the facility and discover its secrets. Piece together the story across multiple campaigns from multiple perspectives!
