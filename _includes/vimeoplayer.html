@@ -1,0 +1,15 @@
+{%- comment -%}
+  Include as: {%- include vimeoplayer.html -%}
+{%- endcomment -%}
+
+<div class="embed-container">
+    <iframe
+        src="https://player.vimeo.com/video/{{ include.id }}"
+        width="560"
+        height="315"
+        frameborder="0"
+        webkitallowfullscreen
+        mozallowfullscreen
+        allowfullscreen>
+    </iframe>
+  </div>
