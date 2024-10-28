@@ -34,6 +34,14 @@ plugins:
   - jekyll-feed
 color_scheme: tscheme
 
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: Note
+    color: grey-lt
+
 defaults:
   - scope:
       path: "assets/img"

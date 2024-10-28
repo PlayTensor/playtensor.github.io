@@ -3,11 +3,9 @@ layout: post
 title:  "The Genre of Tensor"
 date:   2024-10-24 12:00:00 -0700
 categories: devlog
-excerpt_separator: <!--more-->
 ---
 
 *Tensor 1* is a hybrid of the greatest generation shooter, silent generation shooter, and generation X shooter sub-genres. What does that mean?
-<!--more-->
 
 ### Generations of Shooters
 

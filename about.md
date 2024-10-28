@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Tensor 1 is a first-person action adventure video game set in a strange underground facility. It is a hybrid of the Greatest Generation shooter, Silent Generation shooter, and Generation X shooter [sub-genres]({% post_url 2024-10-24-the-genre-of-tensor %}). Coming soon to PC, Mobile, and Web.
+Tensor 1 is a first-person action adventure video game set in a strange underground facility. It is a hybrid of the Greatest Generation shooter, Silent Generation shooter, and Generation X shooter [sub-genres]({% post_url 2024-10-24-the-genre-of-tensor %}).
 
 ### Features
 - [**Campaign**]({% link manual/campaign/index.md %}):\* Explore the facility and discover its secrets. Piece together the story across multiple campaigns from multiple perspectives!
@@ -30,3 +30,6 @@ Tensor 1 is a first-person action adventure video game set in a strange undergro
 ### Contact
 
 contact.magentagrid@gmail.com
+
+{: .note }
+We do **NOT** provide press keys or content creator keys through email. Please use the appropriate channels.
