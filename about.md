@@ -12,6 +12,18 @@ Tensor 1 is a first-person action adventure set in a strange underground facilit
 
 {% include vimeoplayer.html id=page.vimeoId %}
 
+### Features
+- [**Campaign**]({% link manual/campaign/index.md %}):\* Explore the facility and discover its secrets. Piece together the story across multiple campaigns from multiple perspectives!
+- [**Survival**]({% link manual/survival/index.md %}): See how many floors you can clear in the endless survival gauntlet, with the help of 40 upgrades and items to colelct along the way!
+- [**Versus**]({% link manual/versus/index.md %}):\*\* Connect with friends over a Local Area Network (LAN) and face off in competitive death match, team death match, or capture the flag!
+- [**Editor**]({% link manual/editor/index.md %}):\*\* Express yourself creatively and enjoy truly endless replay value with a built-in tile editor to make your own levels!
+- [**And More?**]({% link development.md %}) For obvious reasons, we can't and don't want to make promises about the very uncertain future, but there are ideas we'd like to try out and potentially add in future updates.
+
+[Buy Now!]({% link purchase.md %}){: .btn .btn-green }
+
+- \* *Not all story campaigns are available in non-Steam versions of the game*
+- \*\* *Not available in non-Steam versions of the game.*
+
 ### Screenshots
 
 ![Screen 1](../assets/img/screen1.jpg)
