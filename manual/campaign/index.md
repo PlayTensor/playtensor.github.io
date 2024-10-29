@@ -16,10 +16,10 @@ Campaign is the story mode of Tensor 1. Currently two story campaigns are availa
 - Demo: contains campaign A
 
 ### General Hints
-- Follow the ceiling
-- Force tool pulling effects go through fences and barriers
-- Bullets go through fences and barriers
-- Force tool pulling can effect batteries, charge spheres, and spherical drones
+- Looking for a power source? Follow the wires on the ceiling.
+- The force tool pulling effect goes through fences and barriers.
+- Bullets go through fences and barriers.
+- The force tool can pull batteries, charge spheres, and spherical drones.
 
-{: .note }
-Text walkthroughs skip all secrets
+{: .warning }
+The text walkthroughs skip all secrets and may contain spoilers

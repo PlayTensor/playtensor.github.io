@@ -8,10 +8,10 @@ nav_order: 1
 
 ## Artificial Heart
 
-{: .note }
-Text walkthroughs skip all secrets
-
 ### Text Walkthrough
+
+{: .warning }
+The text walkthrough skips all secrets and may contain spoilers
 
 #### Orientation
 - Exit the starting elevator.

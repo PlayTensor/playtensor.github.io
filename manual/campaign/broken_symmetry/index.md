@@ -16,6 +16,9 @@ Text walkthroughs skip all secrets
 
 ### Text Walkthrough
 
+{: .warning }
+Potential Spoilers
+
 #### Data Entry
 - Exit the starting elevator and walk toward the glasses rack to automatically pick up the HUD
 - Use the door control panel labeled A and proceed through
