@@ -10,9 +10,6 @@ vimeoId: 1020847967
 [![About](assets/img/cover_lq.jpg)]({% link about.md %})
 
 Tensor 1 is a first-person action adventure video game set in a strange underground facility.
-- Full Version releasing on PC through Steam on November 19, 2024 for only **$9.99**
-- Mobile Lite Version Coming Soon to iOS and Android for only **$4.99**
-- **FREE** Demo releasing on Web through itch.io on October 31, 2024
 
 [Ordering Information]({% link purchase.md %}){: .btn .btn-green }
 
@@ -27,7 +24,7 @@ Tensor 1 is a first-person action adventure video game set in a strange undergro
 - [**Editor**]({% link manual/editor/index.md %}):\*\* Express yourself creatively and enjoy truly endless replay value with a built-in tile editor to make your own levels!
 - [**And More?**]({% link development.md %}) For obvious reasons, we can't and don't want to make promises about the very uncertain future, but there are ideas we'd like to try out and potentially add in future updates.
 
-- \* *Web browser versions of the game do not contain all story campaigns.*
+- \* *Demo versions of the game do not contain all story campaigns.*
 - \*\* *Not available in Mobile and Web browser versions of the game.*
 
 ### Screenshots
