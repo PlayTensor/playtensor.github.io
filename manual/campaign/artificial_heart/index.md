@@ -11,7 +11,7 @@ nav_order: 1
 ### Text Walkthrough
 
 {: .warning }
-The text walkthrough skips all secrets and may contain spoilers
+This text walkthrough skips all secrets and may contain spoilers
 
 #### Orientation
 - Exit the starting elevator.

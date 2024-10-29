@@ -11,13 +11,10 @@ nav_order: 2
 {: .note }
 Broken Symmetry is not available in the HTML5 version of the game
 
-{: .note }
-Text walkthroughs skip all secrets
-
 ### Text Walkthrough
 
 {: .warning }
-Potential Spoilers
+This text walkthrough skips all secrets and may contain spoilers
 
 #### Data Entry
 - Exit the starting elevator and walk toward the glasses rack to automatically pick up the HUD

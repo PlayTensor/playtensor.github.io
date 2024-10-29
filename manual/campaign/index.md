@@ -22,4 +22,4 @@ Campaign is the story mode of Tensor 1. Currently two story campaigns are availa
 - The force tool can pull batteries, charge spheres, and spherical drones.
 
 {: .warning }
-The text walkthroughs skip all secrets and may contain spoilers
+The text walkthroughs below skip all secrets and may contain spoilers

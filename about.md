@@ -15,8 +15,8 @@ Tensor 1 is a first-person action adventure video game set in a strange undergro
 
 [Buy Now!]({% link purchase.md %}){: .btn .btn-green }
 
-- \* *Not all story campaigns are available in non-Steam versions of the game*
-- \*\* *Not available in non-Steam versions of the game.*
+- \* *Web browser versions of the game do not contain all story campaigns.*
+- \*\* *Not available in Mobile and Web browser versions of the game.*
 
 ### Screenshots
 
@@ -32,4 +32,4 @@ Tensor 1 is a first-person action adventure video game set in a strange undergro
 contact.magentagrid@gmail.com
 
 {: .note }
-We do **NOT** provide press keys or content creator keys through email. Please use the appropriate channels.
+We do **NOT** provide press keys or content creator keys through this email. Please use the appropriate channels.
