@@ -14,6 +14,6 @@ Survival is the randomized gauntlet game mode. The objective is to clear as many
 Meta-inventory Tokens obtained from Survival can be used to purchase cosmetic rewards in the Profile section.
 
 Version Differences:
-- PC: Includes Survival and Profile cosmetics
-- Mobile: Includes Survival and Profile cosmetics
-- Demo: Includes Survival, does not include Profile unlockables
+- PC: Includes Survival
+- Mobile: Includes Survival
+- Web Demo: Survival Not included due to browser limitations

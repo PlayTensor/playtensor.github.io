@@ -10,7 +10,7 @@ Choose the version that fits your budget!
 
 Releasing on November 19, 2024
 
-Includes Campaign (A, B), Survival, Versus, Profile, Editor, only **$9.99**!
+Includes Campaign (A, B), Survival, Versus, Editor, only **$9.99**!
 
 [Wishlist Now](https://store.steampowered.com/app/3299900){: .btn .btn-green }
 
@@ -18,7 +18,7 @@ Includes Campaign (A, B), Survival, Versus, Profile, Editor, only **$9.99**!
 
 Coming Soon
 
-Will include Campaign (A, B), Survival, Profile, only **$4.99**!
+Will include Campaign (A, B) and Survival, only **$4.99**!
 
 [Coming Soon](){: .btn .btn-grey }
 
@@ -26,7 +26,7 @@ Will include Campaign (A, B), Survival, Profile, only **$4.99**!
 
 Releasing on October 31, 2024
 
-Includes Campaign (A), Survival, **FREE**
+Includes Campaign (A), **FREE**
 
 [Coming Soon](){: .btn .btn-grey }
 
