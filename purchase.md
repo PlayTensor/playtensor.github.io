@@ -2,6 +2,7 @@
 layout: page
 title: Buy Now
 permalink: /purchase/
+nav_order: 2
 ---
 
 Choose the version that fits your budget!

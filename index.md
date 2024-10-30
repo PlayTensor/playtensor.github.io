@@ -24,8 +24,9 @@ Tensor 1 is a first-person action adventure video game set in a strange undergro
 - [**Editor**]({% link manual/editor/index.md %}):\*\* Express yourself creatively and enjoy truly endless replay value with a built-in tile editor to make your own levels!
 - [**And More?**]({% link development.md %}) For obvious reasons, we can't and don't want to make promises about the very uncertain future, but there are ideas we'd like to try out and potentially add in future updates.
 
-- \* *Demo versions of the game do not contain all story campaigns.*
-- \*\* *Not available in Mobile and Web browser versions of the game.*
+\* *Demo versions of the game do not include all story campaigns.*
+
+\*\* *Not available in Mobile and Web browser versions of the game.*
 
 ### Screenshots
 

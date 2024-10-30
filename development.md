@@ -2,6 +2,7 @@
 layout: page
 title: Development Log
 permalink: /devlog/
+nav_order: 3
 ---
 
 Welcome to the Official Development Log

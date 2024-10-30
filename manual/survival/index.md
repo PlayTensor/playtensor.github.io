@@ -16,4 +16,4 @@ Meta-inventory Tokens obtained from Survival can be used to purchase cosmetic re
 Version Differences:
 - PC: Includes Survival
 - Mobile: Includes Survival
-- Web Demo: Survival Not included due to browser limitations
+- Web Demo: Survival not included

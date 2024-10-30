@@ -25,7 +25,7 @@ We can take advantage of the "baby boomer" reference however, and extend it into
 
 *Tensor 1* seeks to combine the tile-based simplicity of Greatest and Silent Generation shooters with the world-building and narrative of Generation X shooters.
 - The tile-based simplicity of Greatest and Silent generation shooters leads itself well to quick development and iteration of content, not only for the developer, but also for people seeking to make their own custom content. Almost anyone can jump into a tile editor and start creating their own maps within minutes.
-- The world-building and narratives of Generation X shooters allow for truly unique experiences. The Generation X shooters of the late 90s and early 00s all featured incredibly varied and unique worlds that were truly distinct from one another.
+- The world-building and narratives of Generation X shooters allow for unique experiences. The Generation X shooters of the late 90s and early 00s featured varied and unique worlds all distinct from one another.
 
 ### Appendix: Defining Genres and Categories
 
@@ -43,4 +43,4 @@ Defining categories by necessary and sufficient conditions is great for some thi
 
 The alternative approach of Core and Peripheral doesn't need to worry about arguing over conditions or finding and closing loopholes. Instead it focuses on examples: core examples are considered strong defining examples of the category, and peripheral examples help define the fuzzy borders of the category.
 
-Genres in particular can be a very fuzzy and trick category to define as the definitions will constantly change as culture constantly evolves, with new genre definitions appear, growing, contracting, and disappearing. It can be a lot simpler to just point to Core and Peripheral examples of a genre than try to endlessly define and argue over conditions.
+Genres in particular can be a very fuzzy and trick category to define as the definitions will constantly change as culture constantly evolves, with new genre definitions appear, growing, contracting, and disappearing. It can be a lot simpler to just point to Core and Peripheral examples of a genre than try to endlessly define and argue over conditions. It also lends itself naturally to the definition of new genres and relationships between genres: a game considered a peripheral example of one genre can also be a core example of another genre.
