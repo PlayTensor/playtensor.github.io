@@ -7,28 +7,32 @@ nav_order: 2
 
 Choose the version that fits your budget!
 
+***
+
 ### [PC (Steam)](https://store.steampowered.com/app/3299900)
 
-Coming Soon
+Coming Soon.
 
-Includes Campaign (A, B), Survival, Versus, Editor, only **$9.99**!
+- Includes Campaign (A, B), Survival, Versus, Editor
+- Only **$9.99**!
 
-[Wishlist Now](https://store.steampowered.com/app/3299900){: .btn .btn-green }
+[Bookmark Now](https://store.steampowered.com/app/3299900){: .btn .btn-green }
 
-### Lite (Mobile)
+*(Let's be honest, we all use Steam Wishlists more as bookmarks than as wishlists)*
 
-Coming Soon
+***
 
-Will include Campaign (A, B) and Survival, only **$4.99**!
+### [HTML5 Demo](https://playtensor.itch.io/demo)
 
-[Coming Soon](){: .btn .btn-grey }
+Released Oct 31, 2024.
 
-### HTML5 Demo
+- Includes Campaign (A)
+- Plays in your Web Browser
+- **FREE**
 
-Coming Soon
+{: .warning }
+Will not work on all Web Browsers. May have visual and audio glitches on some Web Browsers. This is sadly unavoidable (Web Browsers were not designed for games like these).
 
-Includes Campaign (A), **FREE**
-
-[Coming Soon](){: .btn .btn-grey }
+[Play Now](https://playtensor.itch.io/demo){: .btn .btn-blue }
 
 
