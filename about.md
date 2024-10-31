@@ -12,9 +12,9 @@ Tensor 1 is a first-person action adventure video game set in a strange undergro
 - [**Survival**]({% link manual/survival/index.md %}): See how many floors you can clear in the endless survival gauntlet, with the help of 40 upgrades and items to colelct along the way!
 - [**Versus**]({% link manual/versus/index.md %}):\*\* Connect with friends over a Local Area Network (LAN) and face off in competitive death match, team death match, or capture the flag!
 - [**Editor**]({% link manual/editor/index.md %}):\*\* Express yourself creatively and enjoy truly endless replay value with a built-in tile editor to make your own levels!
-- [**And More?**]({% link development.md %}) For obvious reasons, we can't and don't want to make promises about the very uncertain future, but there are ideas we'd like to try out and potentially add in future updates.
+- [**And More?**]({% link development.md %}) For obvious reasons, we cannot and do not want to make promises about the very uncertain future, but there are ideas we'd like to try out and potentially add in future updates.
 
-[Buy Now!]({% link purchase.md %}){: .btn .btn-green }
+[Order Information]({% link purchase.md %}){: .btn .btn-green }
 
 - \* *Web browser versions of the game do not contain all story campaigns.*
 - \*\* *Not available in Mobile and Web browser versions of the game.*
