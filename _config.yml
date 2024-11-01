@@ -33,6 +33,8 @@ theme: just-the-docs
 plugins:
   - jekyll-feed
 color_scheme: tscheme
+ga_tracking: G-DMHKZ3X15H
+ga_tracking_anonymize_ip: true
 
 callouts:
   warning:

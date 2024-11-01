@@ -33,4 +33,4 @@ Tensor 1 is a first-person action adventure video game set in a strange undergro
 contact.magentagrid@gmail.com
 
 {: .note }
-We do not provide press keys or content creator keys through this email. Please use the appropriate channels.
+This email address can be used to request limited playtest keys, but distribution of press keys are handled by a third party partner. Please do not request press keys through this email.
