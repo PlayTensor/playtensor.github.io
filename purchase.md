@@ -31,7 +31,7 @@ Released Oct 31, 2024.
 - **FREE**
 
 {: .warning }
-Will not work on all Web Browsers. May have visual and audio glitches on some Web Browsers. This is sadly unavoidable (Web Browsers were not designed for games like these).
+Will not work on all Web Browsers. WebGL 1.0 support required. May have visual and audio glitches on some Web Browsers. This is sadly unavoidable (Web Browsers were not designed for games like these).
 
 [Play Now](https://playtensor.itch.io/demo){: .btn .btn-blue }
 

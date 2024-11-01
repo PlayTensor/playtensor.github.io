@@ -34,3 +34,7 @@ contact.magentagrid@gmail.com
 
 {: .note }
 This email address can be used to request limited playtest keys, but distribution of press keys are handled by a third party partner. Please do not request press keys through this email.
+
+### More Information
+- [Manual]({% link manual/index.md %})
+- [Privacy]({% link privacy.md %})

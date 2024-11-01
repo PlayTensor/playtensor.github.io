@@ -22,3 +22,6 @@ Requesting to join the Steam playtest is simple: go to the [Steam page](https://
 ### Web Demo
 
 Also, the official demo has released. The entire 4-level "Campaign A" of Tensor 1 is available for **FREE** in the [Web Browser demonstration version](https://playtensor.itch.io).
+
+{: .warning }
+Will not work on all Web Browsers. WebGL 1.0 support required. May have visual and audio glitches on some Web Browsers. This is sadly unavoidable (Web Browsers were not designed for games like these).
