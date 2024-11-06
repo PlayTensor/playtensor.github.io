@@ -11,14 +11,13 @@ Choose the version that fits your budget!
 
 ### [PC (Steam)](https://store.steampowered.com/app/3299900)
 
-Coming Soon.
+Released Nov 19, 2024.
 
 - Includes Campaign (A, B), Survival, Versus, Editor
+- Automatically receive the latest bug fixes and content updates, if any
 - Only **$9.99**!
 
 [Bookmark Now](https://store.steampowered.com/app/3299900){: .btn .btn-green }
-
-*(Let's be honest, we all use Steam Wishlists more as bookmarks than as wishlists)*
 
 ***
 
@@ -28,6 +27,7 @@ Released Oct 31, 2024.
 
 - Includes Campaign (A)
 - Plays in your Web Browser
+- Frozen, will not receive content updates, but may receive bug fixes for serious issues
 - **FREE**
 
 {: .warning }
