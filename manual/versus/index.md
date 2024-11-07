@@ -16,5 +16,8 @@ Versus is the network multiplayer game mode. Connect with other friends over a L
 
 Version Differences:
 - PC: includes Versus
-- Mobile: Versus not included due to mobile hardware restrictions
-- Demo: Versus not included due to web browser security restrictions
+- Web Demo: Versus not included due to web browser security restrictions
+
+### Online Play
+
+Any game built to run over a LAN can theoretically also work over the WAN/Internet. The game will not stop you from attempting to do so, but things like network setup, NAT hole punching, etc. are not officially supported at this time.

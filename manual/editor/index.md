@@ -13,5 +13,4 @@ The Level Editor is a tile-based editor used for making custom maps. Single-play
 
 Version Differences:
 - PC: includes the Editor
-- Mobile: Editor not included
-- Demo: Editor not included
+- Web Demo: Editor not included
