@@ -15,7 +15,7 @@ Tensor 1 is a first-person action adventure video game set in a strange undergro
 
 ### Gameplay Trailer
 
-{% include youtubeplayer.html id=page.youtubeId %}
+{% include vimeoplayer.html id=page.vimeoId %}
 
 ### Features
 - [**Campaign**]({% link manual/campaign/index.md %}):\* Explore the facility and discover its secrets. Piece together the whole story across different campaigns from different perspectives! (Currently 2 story campaigns available)
