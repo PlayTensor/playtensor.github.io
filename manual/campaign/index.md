@@ -17,7 +17,7 @@ For business and legal reasons we cannot promise future content updates, but we 
 - Web Demo: contains campaign A
 
 ### General Hints
-- Door status is hinted by the color of its status light: cyan is unlocked, red is locked, black is power off.
+- Door status is hinted by its status light: cyan is unlocked, red is locked, black is power off.
 - Looking for a power source? Follow the wires on the ceiling.
 - Confused where to go? Maybe there is a crawl space cover you missed.
 - The force tool pulling effect goes through fences and barriers.

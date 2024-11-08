@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Artificial Heart
+title: Artificial Heart Walkthrough
 parent: Campaign
 permalink: /manual/campaign/a
 nav_order: 1

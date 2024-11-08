@@ -14,7 +14,8 @@ Announcing *Tensor 1*, a new action-adventure video game, expected to release fo
 Core features include:
 - **Campaign**: Explore a mysterious facility in the story focused single player campaigns. Arm yourself against the hostile robots standing (or hovering) in your way, and follow (or ignore) the advice of friendly (?) robots (?) trying to help (?) you.
 - **Survival**: Hone your skills in the replay value focused single player score attack mode. See how far you can go as you collect tokens to buy supplies and upgrades in an endless gauntlet of enemies.
-- **Extras**: Use the built-in tile editor to create your own levels for truly endless replay.
+- **Versus**: Connect with your friends over a Local Area Network (LAN) and compete in deathmatch, team deathmatch, and capture the flag.
+- **Extras**: Use the built-in tile editor to create your own single player levels for truly endless replay. Use the built-in Versus tile editor and make your own Versus multiplayer maps too!
 
 ### Going Gold Then and Now
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Broken Symmetry
+title: Broken Symmetry Walkthrough
 parent: Campaign
 permalink: /manual/campaign/b
 nav_order: 2
