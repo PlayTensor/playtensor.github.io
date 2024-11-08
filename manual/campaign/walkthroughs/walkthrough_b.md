@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Broken Symmetry Walkthrough
+title: Walkthrough B
 parent: Campaign
-permalink: /manual/campaign/b
-nav_order: 2
+permalink: /manual/campaign/walkthroughs/b
+nav_order: 3
 ---
 
 ## Broken Symmetry

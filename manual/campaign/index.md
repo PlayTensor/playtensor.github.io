@@ -26,4 +26,4 @@ For business and legal reasons we cannot promise future content updates, but we 
 - If a soldier's head was damaged, the head cannot detach after its body is destroyed
 
 {: .warning }
-The text walkthroughs below skip all secrets and may contain spoilers
+The text walkthroughs skip all secrets and may contain spoilers

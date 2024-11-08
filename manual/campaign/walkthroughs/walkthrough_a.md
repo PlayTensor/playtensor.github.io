@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Artificial Heart Walkthrough
+title: Walkthrough A
 parent: Campaign
-permalink: /manual/campaign/a
-nav_order: 1
+permalink: /manual/campaign/walkthrough/a
+nav_order: 2
 ---
 
 ## Artificial Heart

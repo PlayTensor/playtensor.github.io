@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Push vs Pull"
-date:   2024-11-30 12:00:00 -0700
+title:  "Push vs Pull Design"
+date:   2024-11-21 12:00:00 -0700
 categories: devlog
 ---
 
@@ -13,4 +13,4 @@ In marketing, a business can use push strategies, like paying for advertisements
 
 Good education, good game design, etc., will use both push and pull strategies. The difficulty is in finding the right balance for each situation. In game design, too much pushing can make a player feel like they are just going down a checklist of assigned tasks rather than having fun. Too much pulling, however, can leave players wandering around a game world, lost and confused as to what they are supposed to do.
 
-That said, as a student, a game player, and as a consumer, I do think there has been a general overall tendency to err on the side of too much pushing. For that reason, I have tended to err on the side of pulling. If that means you have gotten stuck on a certain level in the *Tensor 1* story campaign, hopefully [Campaign section]({% link manual/campaign/index.md %}) in the online manual can provide some help.
+That said, as a student, a game player, and as a consumer, I do think there has been a general overall tendency to err on the side of too much pushing. For that reason, I have tended to err on the side of pulling in the level design. If that means you have gotten stuck on a certain level in the *Tensor 1* story campaign, hopefully the [Campaign section]({% link manual/campaign/index.md %}) in the online manual can provide some help.
