@@ -43,3 +43,7 @@ Tensor 1 is a first-person action adventure video game set in a strange undergro
 - [About]({% link about.md %})
 - [Manual]({% link manual/index.md %})
 - [Privacy]({% link privacy.md %})
+
+### Contact
+
+- [contact.magentagrid@gmail.com](mailto:contact.magentagrid@gmail.com)
