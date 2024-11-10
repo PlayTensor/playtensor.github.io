@@ -5,7 +5,7 @@ permalink: /devlog/
 nav_order: 3
 ---
 
-Welcome to the Official Development Log
+Welcome to the Official News Feed and Development Log
 
 <ul>
   {% for post in site.posts %}
