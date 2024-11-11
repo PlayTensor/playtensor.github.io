@@ -24,6 +24,7 @@ For business and legal reasons we cannot promise future content updates, but we 
 - Bullets go through fences and barriers.
 - The force tool can pull batteries, charge spheres, and spherical drones.
 - If a soldier's head was damaged, the head cannot detach after its body is destroyed
+- *Really* stuck? Hold down the map display key (default M) to see your position in a level map. But beware, crawl space areas will look the same as ordinary walls!
 
 {: .warning }
 The text walkthroughs skip all secrets and may contain spoilers
