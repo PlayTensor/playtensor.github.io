@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Feature Highlights"
-date:   2024-11-11 12:00:00 -0700
+date:   2024-11-11 09:00:00 -0700
 categories: devlog
 ---
 
-One of the central defining goals of *Tensor 1* is to combine the technical simplicty and elegance of the Greatest Generation/Silent Generation shooter with the narrative focus and world-building of the Generation X shooter [genres]({% post_url 2024-10-24-the-genre-of-tensor %}). In order to achieve this, *Tensor 1* focused on a five main pillars in its technology and design.
+One of the central goals of *Tensor 1* is to combine the technical simplicty and elegance of the Greatest Generation/Silent Generation shooter with the narrative focus and world-building of the Generation X shooter [genres]({% post_url 2024-10-24-the-genre-of-tensor %}). In order to achieve this, *Tensor 1* focused on a five main pillars in its technology and design.
 
 ### Tile-Based World
 
@@ -35,6 +35,6 @@ AI opponents, no matter how advanced, still cannot capture that certain special 
 
 While the classic Boomer and Gen-X shooters of the late 1990s and early 2000s tended to include both single player and multiplayer components, from the age of Millenial shooter onward, 3D first person shooter games began to increasingly bifurcate into separate single player and multiplayer.
 
-Multiplayer games obviously provide replay value in the form of differing human players using differing strategies each game. For single player games chasing replay value, many turned to the example of Rogue (1980), a turn-based, grid-based role-playing game (RPG) based on exploring procedurally generated dungeons. Rogue initially spawned a subgenre of "Roguelike" RPGs, but developers working in other genres soon recognized the value of Roguelike randomization in creating replay value. They began to apply the randomization of Roguelikes to other genres, leading to the "Roguelike-like" or "Roguelite" genre.
+Multiplayer games obviously provide replay value in the form of differing human players using differing strategies each game. For single player games chasing replay value, many turned to the example of Rogue (1980), a turn-based, grid-based role-playing game (RPG) based on exploring procedurally generated dungeons. Rogue initially spawned a subgenre of "Roguelike" RPGs, but developers working in other genres soon recognized the value of Roguelike randomization and procedural generation in creating replay value. They began to apply the randomization of Roguelikes to other genres, leading to the "Roguelike-like" or "Roguelite" genre.
 
-In order to provide a source of replay value that does not depend on having to bug a friend to connect to through Versus mode or learn speed-running tricks for replaying Campaign mode, *Tensor 1* also includes Survival mode, which features the randomized run aspects of the Roguelite genre. In Survival mode, players go through a randomized sequence of levels, fighting off waves of enemies in the process. The spawning of enemy waves is partly random and partly managed by an AI Director system. The Director program is put in place to keep a leash on the difficulty ramp-up, seeking to strike the balance of offering up a challenge without overwhelming the player too quickly.
+In order to provide a source of replay value that does not depend on having to bug a friend to connect to through Versus mode or learn speed-running tricks for replaying Campaign mode, *Tensor 1* also includes Survival mode, which features the randomized run aspects of the Roguelite genre. In Survival mode, players go through a randomized sequence of levels, fighting off waves of enemies in the process. The spawning of enemy waves is partly random and partly managed by an AI Director system. The Director program keeps a leash on the difficulty ramp-up, seeking to strike the balance of offering a challenge without overwhelming the player too quickly.
