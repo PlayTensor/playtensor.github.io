@@ -19,6 +19,8 @@ The official *Tensor 1 Playtest* solves this problem. Players can now try out *T
 
 Requesting to join the Steam playtest is simple: go to the [Steam page](https://store.steampowered.com/app/3299900) for *Tensor 1* and click "Request Access" in the "Join the Tensor 1 Playtest" section. If you are especially interested and want to gain priority on the waitlist, you can contact us directly to request a playtest access key.
 
+The playtest will end with the launch of the game in mid-November 2024.
+
 ### Web Demo
 
 Also, the official demo has released. The entire 4-level "Campaign A" of Tensor 1 is available for **FREE** in the [Web Browser demonstration version](https://playtensor.itch.io).

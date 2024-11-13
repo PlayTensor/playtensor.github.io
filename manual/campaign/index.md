@@ -23,7 +23,7 @@ For business and legal reasons we cannot promise future content updates, but we 
 - The force tool pulling effect goes through fences and barriers.
 - Bullets go through fences and barriers.
 - The force tool can pull batteries, charge spheres, and spherical drones.
-- If a soldier's head was damaged, the head cannot detach after its body is destroyed
+- If a soldier's head was damaged, the head will not detach after its body is disabled
 - *Really* stuck? Hold down the map display key (default M) to see your position in a level map. But beware, crawl space areas will look the same as ordinary walls!
 
 {: .warning }
