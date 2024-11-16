@@ -67,7 +67,7 @@ Why were there problems over something as simple as a jump? "Very, very poor pla
 
 The cycle of excitement, testing, and disillusionment grew into a cycle of scope creep and schedule slips. Plans for release in Q1 2023 slipped to Q2, then to Q3, then to Q4. Worst of all, against the advice of numerous testers and commentators, Jack decided to turn the game into a retail product for sale.
 
-"During one particularly bad excitement build-up cycle, I decided to make the game a retail product," says Jack. "I thought that if I released it as a retail product, I could prove to myself that I could make something good and exciting enough that people would willingly pay money to have it. The 'shut up and take my money' meme is the dream of every creator. It's the ultimate validation. Something isn't good unless people throw money at it. Some testers immediately tried to talk me out of it by pointing out that 'proving yourself' is always a terrible motivation to do anything, that there was no market for this kind of game and hadn't been for 30 years. Why would anyone buy a tile based shooter after Doom made them obsolete in 1993? Unfortunately, that just made me want to do it even more. Their warnings made it all feel like a challenge to be overcome."
+"During one particularly bad excitement build-up cycle, I decided to make the game a retail product," says Jack. "I thought that if I released it as a retail product, I could prove to myself that I could make something good and exciting enough that people would willingly pay money to have it. I think the 'shut up and take my money' meme is the dream of every creator. It's the ultimate validation that you made something cool. Some testers immediately tried to talk me out of it by pointing out that 'proving yourself' is always a terrible motivation to do anything, that there was no market for this kind of game and hadn't been for 30 years. Why would anyone buy a tile based shooter after Doom made them obsolete in 1993? Unfortunately, that just made me want to do it even more. Their warnings made it all feel like a challenge to be overcome."
 
 To meet this new ambitious target, another year of development time was added to the schedule, plus one more big scope creep push.
 
@@ -123,8 +123,6 @@ When asked where the biggest cuts went, Jack is quick to answer. "The story," he
 
 Some parts of these more ambitious story ideas still left a shadow on the game, mostly in the form of in-game whiteboard drawings, abandoned personal computer workstations, and occasional wall defacements. "In the story campaigns, there are some hidden whiteboard drawings," says Jack. "Those drawings are from storyboards of abandoned storyline ideas. So I like to think that, in a way, some of the cut stories actually did take place in the world of *Tensor 1*, it just so happens that it's not the player's story, at least while playing the current story campaigns."
 
-"I also have a fun idea for salvaging another abandoned story idea using the game's support website," he adds with a mischievous smile. He declines to elaborate further: "It's a surprise."
-
 ### One Final Scare
 
 Jack insists on sharing one more anecdote from nearly the end of development: "On November 1, the computer I was developing on died. Completely. I spent the entire day desperately recovering files onto another computer. So, you know, always keep backups."
@@ -141,13 +139,13 @@ Jack is quick to add that he doesn't believe in "launch and leave" and wants to 
 
 When can we expect those hypothetical updates? "Probably not for a while. Right now I'm just so exhausted that I can't even imagine myself actually doing any of that. But who knows? If I delude myself hard enough, maybe something can happen after I've rested up a little. And found a day job."
 
-Looking back at the whiteboard and its crude calendar, there's a small note written on the day marked as November 20th: "Start job search."
+Looking back at the whiteboard and its crude calendar, there's a small note written on the day after the planned launch date: "Start job search."
 
 "I've been trying to pretend that note isn't there for far too long," says Jack. "Deluding myself is a bad habit. But I think, to a certain degree, you have to be a little delusional to do something creative. If I hadn't lied to myself so much while working on *Tensor 1*, I wouldn't have finished it! *Tensor 1* only happened through the power of delusion."
 
-Jack claims that the fact that *Tensor 1* is titled *Tensor 1* and not just *Tensor* was not due to delusion. "It was the opposite," he swears. "As hard as I tried, I couldn't lie to myself enough to really believe a *Tensor 2* would be possible. But there was something I had always wanted to do, and that was to make something with a science-math theme that then had a sequel with a 2 in the title, so that I could make a logo that used the 2 look like an exponent. You know, something like T squared. And then I realized, hey, there's really nothing stopping me from just calling something 1 from the beginning and making a logo with a 1 as the exponent. I don't need to wait for a 2!"
+Jack claims that the fact that *Tensor 1* is titled *Tensor 1* and not just *Tensor* was not due to delusions of a sequel. "It was the opposite," he swears. "As hard as I tried, I couldn't lie to myself enough to really believe a *Tensor 2* would be possible. But there was something I had always wanted to do, and that was to make something with a science-math theme that then had a sequel with a 2 in the title, so that I could make a logo that used the 2 look like an exponent. You know, something like T squared. And then I realized, hey, there's really nothing stopping me from just calling something 1 from the beginning and making a logo with a 1 as the exponent. I don't need to wait for a 2!"
 
-But maybe he's just deluding himself.
+But maybe he's just deluding himself again.
 
 ---
 
