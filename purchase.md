@@ -12,7 +12,18 @@ Released Nov 19, 2024.
 - Includes Campaign (A, B), Survival, Versus, Editor
 - Only **$9.99**!
 
-[Wishlist Now!](https://store.steampowered.com/app/3299900){: .btn .btn-green }
+[Buy Now!](https://store.steampowered.com/app/3299900){: .btn .btn-green }
+
+***
+
+### [PC Demo (Steam)](https://store.steampowered.com/app/3299900)
+
+Released Dec 6, 2024.
+
+- Includes Campaign (A), Survival
+- **FREE**!
+
+[Get it Now!](https://store.steampowered.com/app/3299900){: .btn .btn-green }
 
 ***
 
