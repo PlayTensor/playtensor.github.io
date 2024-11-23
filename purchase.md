@@ -20,7 +20,7 @@ Released Nov 19, 2024.
 
 Released Dec 6, 2024.
 
-- Includes Campaign (A), Survival
+- Includes Campaign (A)
 - **FREE**!
 
 [Get it Now!](https://store.steampowered.com/app/3299900){: .btn .btn-green }
