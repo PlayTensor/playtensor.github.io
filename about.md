@@ -16,8 +16,8 @@ Tensor 1 is a first-person action adventure video game set in a strange undergro
 
 [Order Information]({% link purchase.md %}){: .btn .btn-green }
 
-- \* *Web browser versions of the game do not contain all story campaigns.*
-- \*\* *Not available in Mobile and Web browser versions of the game.*
+- \* *Demo and Web browser versions of the game do not contain all story campaigns.*
+- \*\* *Not available in Demo and Web browser versions of the game.*
 
 ### Screenshots
 
@@ -35,3 +35,15 @@ Tensor 1 is a first-person action adventure video game set in a strange undergro
 ### More Information
 - [Manual]({% link manual/index.md %})
 - [Privacy]({% link privacy.md %})
+
+### Trailer Video
+
+{% include vimeoplayer.html id=page.vimeoId %}
+
+### Factsheet
+- Developer: Magenta Grid
+- Release Dates:
+    - October 31, 2024 (HTML5 Demo)
+    - November 15, 2024 (PC Steam)
+    - December 6, 2024 (PC Steam Demo)
+- Platforms: Windows PC (through Steam)

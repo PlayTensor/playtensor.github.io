@@ -11,11 +11,11 @@ vimeoId: 1020847967
 
 Tensor 1 is a first-person action adventure video game set in a strange underground facility.
 
-[Try the Free Demo!](https://playtensor.itch.io/demo){: .btn .btn-blue }
+[Web Demo](https://playtensor.itch.io/demo){: .btn .btn-blue }
 
-[Order the Full Version!]({% link purchase.md %}){: .btn .btn-green }
+[Order Full Version]({% link purchase.md %}){: .btn .btn-green }
 
-### Gameplay Trailer
+### Trailer
 
 {% include vimeoplayer.html id=page.vimeoId %}
 

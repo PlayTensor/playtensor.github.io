@@ -13,4 +13,4 @@ Since launch, we've been looking carefully at how players interact with the game
 
 So what does this mean?
 
-Moving forward, we'll be heads-down focusing on addressing these larger issues in addition to shipping smaller updates. While we expect this process of experimentation and development to take a significant amount of time, we’re excited to tackle this challenge and will get back to you as soon as we are ready.
+Moving forward, we'll be heads-down focusing on addressing these larger issues. While we expect this process of experimentation and development to take a significant amount of time, we’re excited to tackle this challenge and will get back to you as soon as we are ready.
