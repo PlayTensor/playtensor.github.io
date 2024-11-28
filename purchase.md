@@ -18,7 +18,7 @@ Released Nov 19, 2024.
 
 ### [PC Demo (Steam)](https://store.steampowered.com/app/3299900)
 
-Released Dec 6, 2024.
+Released Nov 28, 2024.
 
 - Includes Campaign (A)
 - **FREE**!
