@@ -45,5 +45,5 @@ Tensor 1 is a first-person action adventure video game set in a strange undergro
 - Release Dates:
     - October 31, 2024 (HTML5 Demo)
     - November 15, 2024 (PC Steam)
-    - December 6, 2024 (PC Steam Demo)
+    - November 28, 2024 (PC Steam Demo)
 - Platforms: Windows PC (through Steam)
