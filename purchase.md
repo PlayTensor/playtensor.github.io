@@ -25,18 +25,4 @@ Released Nov 28, 2024.
 
 [Get it Now!](https://store.steampowered.com/app/3299900){: .btn .btn-green }
 
-***
-
-### [HTML5 Demo](https://playtensor.itch.io/demo)
-
-Released Oct 31, 2024.
-
-- Includes Campaign (A)
-- Plays in your Web Browser for **FREE**
-
-{: .warning }
-Will not work on all Web Browsers. WebGL 1.0 support required. May have visual and audio glitches on some Web Browsers. This is sadly unavoidable (Web Browsers were not designed for games like these).
-
-[Play Now!](https://playtensor.itch.io/demo){: .btn .btn-blue }
-
 
