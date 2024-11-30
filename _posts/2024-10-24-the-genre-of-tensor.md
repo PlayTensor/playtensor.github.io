@@ -23,7 +23,7 @@ We can take advantage of the "baby boomer" reference however, and extend it into
 
 ### The Greatest Generation/Silent Generation/Generation X hybrid
 
-*Tensor 1* seeks to combine the tile-based simplicity of Greatest and Silent Generation shooters with the world-building and narrative of Generation X shooters.
+*Tensor* seeks to combine the tile-based simplicity of Greatest and Silent Generation shooters with the world-building and narrative of Generation X shooters.
 - The tile-based simplicity of Greatest and Silent generation shooters leads itself well to quick development and iteration of content, not only for the developer, but also for people seeking to make their own custom content. Almost anyone can jump into a tile editor and start creating their own maps within minutes.
 - The world-building and narratives of Generation X shooters allow for unique experiences. The Generation X shooters of the late 90s and early 00s featured varied and unique worlds all distinct from one another.
 

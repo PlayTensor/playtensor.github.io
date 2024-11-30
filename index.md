@@ -9,7 +9,7 @@ vimeoId: 1020847967
 
 [![About](assets/img/cover_lq.jpg)]({% link about.md %})
 
-Tensor 1 is a first-person action adventure video game set in a strange underground facility.
+Tensor is a first-person action adventure video game set in a strange underground facility.
 
 [Order]({% link purchase.md %}){: .btn .btn-green }
 
