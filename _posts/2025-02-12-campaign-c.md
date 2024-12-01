@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "1.1 Update: Campaign C"
-date:   2024-02-12 12:00:00 -0700
+date:   2025-02-12 12:00:00 -0700
 categories: devlog
 ---
 
