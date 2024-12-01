@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 nav_order: 1
+vimeoId: 1020847967
 ---
 
 Tensor is a first-person action adventure video game set in a strange underground facility. It is a hybrid of the Greatest Generation shooter, Silent Generation shooter, and Generation X shooter [sub-genres]({% post_url 2024-10-24-the-genre-of-tensor %}), based on 5 [pillars]({% post_url 2024-11-11-feature-highlights %}) in its technology and design.
