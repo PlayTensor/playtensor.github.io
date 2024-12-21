@@ -19,7 +19,3 @@ Steam Cloud will automatically attempt to save and sync your save data. If you m
 
 All relevant user save data is stored in the following file directory: ```%APPDATA%\Godot\app_userdata\Tensor\```
 Files with the ```.res``` are a binary file format. It is highly discouraged to attempt to modify these. Most other files are in plain text and should be human readable. However, it is recommended not to modify these files without a solid understanding of potential implications. There is no warranty for games broken by modifying user data files.
-
-### Versions before 1.1
-Old versions of the game before 1.1.0.0 unfortunately use a different directory reference: ```%APPDATA%\Godot\app_userdata\Tensor 1\```
-If the above directory appears, it is highly recommended to copy files over to the new directory reference: ```%APPDATA%\Godot\app_userdata\Tensor\```

@@ -16,7 +16,7 @@ Versus is the network multiplayer game mode. Connect with other friends over a L
 
 Version Differences:
 - PC: includes Versus
-- Web Demo: Versus not included due to web browser security restrictions
+- Demo: Versus not included due to web browser security restrictions
 
 ### Online Play
 

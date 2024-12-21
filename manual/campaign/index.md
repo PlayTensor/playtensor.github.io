@@ -14,7 +14,7 @@ For business and legal reasons we cannot promise future content updates, but we 
 
 ### Version Differences:
 - PC: contains campaigns A and B
-- Web Demo: contains campaign A
+- Demo: contains campaign A
 
 ### General Hints
 - Door status is hinted by its status light: cyan is unlocked, red is locked, black is power off.

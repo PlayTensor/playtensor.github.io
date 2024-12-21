@@ -15,4 +15,4 @@ In Survival mode, enemies drop tokens upon defeat. These tokens can be used to p
 
 Version Differences:
 - PC: Includes Survival
-- Web Demo: Survival not included
+- Demo: Survival not included
