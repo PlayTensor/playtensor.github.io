@@ -9,7 +9,7 @@ When we launched *Tensor*, we expected it would be the beginning of a long journ
 
 Obviously, things didn't turn out how we hoped. *Tensor* represents the largest discrepancy between our expectations for how one of our games would be received and the actual outcome. But we don't think that players misunderstand the game, or that they're playing it wrong. *Tensor* now represents an opportunity for us to improve our craft and use that knowledge to build better games.
 
-Since launch, we've been looking carefully at how players interact with the game as well as gathering feedback. It has become clear that there are deep-rooted issues with the game and that our original update strategy of releasing new features and maps would be insufficient to address them. Instead, we believe the correct course of action is to take larger steps, to re-examine the decisions we've made along the way regarding game design, the experience of playing, and more.
+Since launch, we've been looking carefully at how players interact with the game as well as gathering feedback. It has become clear that there are deep-rooted issues with the game and that our original update strategy of releasing new story campaigns, maps, game modes, weapons, and editor tiles would be insufficient to address them. Instead, we believe the correct course of action is to take larger steps, to re-examine the decisions we've made along the way regarding game design, the experience of playing, and more.
 
 So what does this mean?
 
